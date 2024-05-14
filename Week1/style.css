@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color: blue;
+  transition: 0.5s;
+}
+
+h1:hover {
+  color: crimson;
+  font-size: 50px;
+  transform: translate(0, 50px);
+  transition: ease-in-out 1s;
+}
