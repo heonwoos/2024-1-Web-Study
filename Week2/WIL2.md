@@ -236,5 +236,6 @@ h1{GDSC Hongik!}+div.container#gallery>nav#img$*10>img[alt=image$ src="image$.jp
   - 태그를 병렬로 적고 싶다면 `+`를 적고 다른 속성을 설정하고 싶다면`[]` 안에 쓴다.
   ```html
   //h1{GDSC Hongik!}+input[type=text placeholder=Input\ Your\ Email]
+  <h1>GDSC Hongik!</h1>
   <input type="text" placeholder="Input Your Email" />
   ```
