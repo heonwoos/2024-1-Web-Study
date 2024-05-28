@@ -155,7 +155,8 @@ https://www.freecodecamp.org/news/how-javascript-works-behind-the-scenes/
 
 ### 1.1. GDSC Hongik!을 띄운 웹 페이지에 JavaScript 작성하여 간단한 기능 만들기
 
-- 링크: [[추가할 예정]]
+- 링크: [https://heonwoos.github.io/2024-1-Web-Study/Week2/]
+- 원래 계산기 완전히 만들려 했는데 수식 작성까지 밖에 못했어요
 
 ## 2. 과제하면서 배운 것
 
